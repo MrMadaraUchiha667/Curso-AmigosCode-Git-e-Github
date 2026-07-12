@@ -7,6 +7,8 @@ Repositório criado durante o curso **Git & GitHub Fundamentals da AmigosCode**.
 
 Este projeto reúne anotações, exercícios e práticas realizadas durante o aprendizado dos fundamentos do Git, controle de versão e integração com repositórios remotos utilizando GitHub.
 
+![GitHub](https://user-images.githubusercontent.com/109716271/226445621-a628e8da-66b1-4fc2-9124-ae55a922cc84.jpeg)
+
 ---
 
 # 📌 Conteúdo Aprendido
