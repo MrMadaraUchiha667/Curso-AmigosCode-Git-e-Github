@@ -29,6 +29,7 @@ Com Git é possível:
 
 ---
 
-# 🔧 Como o Git funciona
+# 🔧 Certificado do Curso:
 
-O Git trabalha principalmente com três áreas:
+<img width="2000" height="1415" alt="image" src="https://github.com/user-attachments/assets/7f292f15-6fcb-47b7-ae67-9cef0fd54ea0" />
+
